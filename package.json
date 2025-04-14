@@ -1,12 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Solohiddin",
+	
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
-	  "start": "node server.js"
+	  "start": "node server.js",
+	  "test":"echo \"No tests specified\""
 	},
 	"repository": {
 	  "type": "git",
